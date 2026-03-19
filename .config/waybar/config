@@ -1,0 +1,18 @@
+{
+  "layer": "top",
+  "position": "top",
+  "modules-left": ["sway/workspaces"],
+  "modules-center": ["clock"],
+  "modules-right": ["memory", "battery", "network", "pulseaudio", "tray"],
+
+  "clock": {
+	"format": "{:%A, %b %d, %H:%M}"
+  },
+  
+  "memory": {
+    "format": "{used} / {total} GB",
+    "format-ram": "{used} / {total} GB",
+    "format-percentage": "{percentage}%",
+    "interval": 5
+  }
+}
