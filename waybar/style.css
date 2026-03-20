@@ -1,11 +1,15 @@
+@define-color text-color #FFFFFF;
+@define-color accent-color #A7C080;
+@define-color bg-color #1E2326;
+
 * {
     font-family: 'Noto Sans Mono', 'Font Awesome 6 Free', 'Font Awesome 6 Brands', monospace;
-    font-size: 13px;
+    font-size: 14px;
 }
 
 window#waybar {
     background-color: rgba(43, 48, 59, 0);
-    border-bottom: 3px solid rgba(100, 114, 125, 0.5);
+    /*border-bottom: 3px solid rgba(100, 114, 125, 0.5);*/
     color: #ffffff;
     transition-property: background-color;
     transition-duration: .5s;
@@ -52,6 +56,10 @@ button:hover {
     background-color: #a37800;
 }
 
+/**************/
+/* Workspaces */
+/**************/
+
 #workspaces button {
     padding: 0 5px;
     background-color: transparent;
@@ -76,6 +84,10 @@ button:hover {
     box-shadow: inset 0 -3px #ffffff;
 }
 
+/*******************/
+/* Modules General */
+/*******************/
+
 #clock,
 #battery,
 #cpu,
@@ -93,8 +105,14 @@ button:hover {
 #scratchpad,
 #power-profiles-daemon,
 #mpd {
-    padding: 0 10px;
+    padding: 0 5px 0 5px;
+    margin: 0 5px 0 5px;
     color: #ffffff;
+    background-color: @bg-color;
+    border-radius: 12px;
+    border: solid;
+    border-color: @accent-color;
+    border-width: 2px;
 }
 
 #window,

@@ -27,6 +27,9 @@ set $rofi_cmd rofi \
 # TODO: add window with the next release of rofi-wayland
 set $menu $rofi_cmd -show combi -combi-modes drun#run -modes combi
 
+### How windows look
+default_border pixel 2
+
 ### Output configuration
 #
 # Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)
@@ -43,10 +46,10 @@ output * bg /home/tala/Downloads/richard-tao-jlJFU9QBfFc-unsplash.jpg fill
 #
 # Example configuration:
 #
-# exec swayidle -w \
-#          timeout 300 'swaylock -f -c 000000' \
-#          timeout 600 'swaymsg "output * power off"' resume 'swaymsg "output * power on"' \
-#          before-sleep 'swaylock -f -c 000000'
+exec swayidle -w \
+        timeout 300 'swaylock -f -i /home/tala/Downloads/richard-tao-jlJFU9QBfFc-unsplash.jpg --scaling fill' \
+        timeout 600 'swaymsg "output * power off"' resume 'swaymsg "output * power on"' \
+        before-sleep 'swaylock -f -i /home/tala/Downloads/richard-tao-jlJFU9QBfFc-unsplash.jpg --scaling fill'
 #
 # This will lock your screen after 300 seconds of inactivity, then turn off
 # your displays after another 300 seconds, and turn your screens back on when
