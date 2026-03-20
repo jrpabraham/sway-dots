@@ -1,0 +1,8 @@
+{
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"theme": "Everforest Dark.sublime-theme",
+	"color_scheme": "Everforest Dark.sublime-color-scheme",
+}
