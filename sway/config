@@ -30,6 +30,18 @@ set $menu $rofi_cmd -show combi -combi-modes drun#run -modes combi
 ### How windows look
 default_border pixel 2
 
+# Focused window (Everforest green accent)
+client.focused          #a7c080 #a7c080 #2d353b #a7c080 #a7c080
+
+# Unfocused windows (muted gray-blue tones)
+client.unfocused        #3d484d #3d484d #d3c6aa #3d484d #3d484d
+
+# Windows in the same workspace but not active
+client.focused_inactive #4a555b #4a555b #d3c6aa #4a555b #4a555b
+
+# Urgent windows (use a contrasting warm color)
+client.urgent           #e67e80 #e67e80 #2d353b #e67e80 #e67e80
+
 ### Output configuration
 #
 # Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)

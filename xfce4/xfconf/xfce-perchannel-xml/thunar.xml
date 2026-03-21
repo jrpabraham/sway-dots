@@ -3,11 +3,14 @@
 <channel name="thunar" version="1.0">
   <property name="last-view" type="string" value="ThunarIconView"/>
   <property name="last-icon-view-zoom-level" type="string" value="THUNAR_ZOOM_LEVEL_100_PERCENT"/>
-  <property name="last-window-width" type="int" value="1436"/>
+  <property name="last-window-width" type="int" value="356"/>
   <property name="last-window-height" type="int" value="872"/>
   <property name="last-window-maximized" type="bool" value="false"/>
   <property name="last-separator-position" type="int" value="170"/>
   <property name="last-show-hidden" type="bool" value="true"/>
   <property name="last-details-view-zoom-level" type="string" value="THUNAR_ZOOM_LEVEL_38_PERCENT"/>
-  <property name="last-details-view-column-widths" type="string" value="50,50,132,50,50,233,50,50,675,50,50,78,50,147"/>
+  <property name="last-details-view-column-widths" type="string" value="50,50,131,50,50,91,50,50,242,50,50,61,50,66"/>
+  <property name="hidden-bookmarks" type="array">
+    <value type="string" value="file:///home/tala/Desktop"/>
+  </property>
 </channel>

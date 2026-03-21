@@ -1,17 +1,25 @@
 {
 	"file_history":
 	[
+		"/home/tala/Repos/student-reports/src/check_tuition.py",
+		"/home/tala/Repos/student-reports/src/check_atest.py",
+		"/home/tala/.bashrc",
+		"/home/tala/Repos/student-reports/scratch.txt",
+		"/home/tala/Repos/student-reports/Rescheduling parents for the school year",
 		"/home/tala/.config/sway/config",
+		"/home/tala/.themes/Everforest-Green-Dark/gtk-3.0/gtk-dark.css",
+		"/home/tala/alacritty.toml",
 		"/home/tala/.config/waybar/style.css",
 		"/home/tala/Repos/sway-dots/.config/waybar/style.css"
 	],
 	"folder_history":
 	[
+		"/home/tala/Repos/student-reports"
 	],
 	"last_version": 4200,
 	"last_window_id": 1,
 	"log_indexing": false,
-	"next_update_check": 1774047595,
+	"next_update_check": 1774133995,
 	"settings":
 	{
 		"new_window_full_screen": false,
@@ -20,7 +28,7 @@
 		"new_window_position":
 		[
 			0.0,
-			27.0
+			28.0
 		],
 		"new_window_settings":
 		{
@@ -53,6 +61,10 @@
 				"selected_items":
 				[
 					[
+						"wrap",
+						"Word Wrap: Toggle"
+					],
+					[
 						"pack",
 						"Package Control: Install Package"
 					],
@@ -81,13 +93,20 @@
 			},
 			"file_history":
 			[
+				"/home/tala/Repos/student-reports/src/check_tuition.py",
+				"/home/tala/Repos/student-reports/src/check_atest.py",
+				"/home/tala/.bashrc",
+				"/home/tala/Repos/student-reports/scratch.txt",
+				"/home/tala/Repos/student-reports/Rescheduling parents for the school year",
 				"/home/tala/.config/sway/config",
+				"/home/tala/.themes/Everforest-Green-Dark/gtk-3.0/gtk-dark.css",
+				"/home/tala/alacritty.toml",
 				"/home/tala/.config/waybar/style.css",
 				"/home/tala/Repos/sway-dots/.config/waybar/style.css"
 			],
 			"find":
 			{
-				"height": 40.0
+				"height": 28.0
 			},
 			"find_in_files":
 			{
@@ -101,6 +120,10 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"ofi",
+					"focus",
+					"menu",
+					"thunar",
 					"idle",
 					"lock",
 					"swayidle",
@@ -155,6 +178,14 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"check",
+						"src/check_tuition.py"
+					],
+					[
+						"ate",
+						"src/check_atest.py"
+					]
 				],
 				"width": 0.0
 			},
@@ -179,7 +210,7 @@
 			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": true,
+			"side_bar_visible": false,
 			"side_bar_width": 150.0,
 			"status_bar_visible": true,
 			"template_settings":
@@ -224,6 +255,10 @@
 				"selected_items":
 				[
 					[
+						"wrap",
+						"Word Wrap: Toggle"
+					],
+					[
 						"pack",
 						"Package Control: Install Package"
 					],
@@ -250,15 +285,26 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
+			"expanded_folders":
+			[
+				"/home/tala/Repos/student-reports"
+			],
 			"file_history":
 			[
+				"/home/tala/Repos/student-reports/src/check_tuition.py",
+				"/home/tala/Repos/student-reports/src/check_atest.py",
+				"/home/tala/.bashrc",
+				"/home/tala/Repos/student-reports/scratch.txt",
+				"/home/tala/Repos/student-reports/Rescheduling parents for the school year",
 				"/home/tala/.config/sway/config",
+				"/home/tala/.themes/Everforest-Green-Dark/gtk-3.0/gtk-dark.css",
+				"/home/tala/alacritty.toml",
 				"/home/tala/.config/waybar/style.css",
 				"/home/tala/Repos/sway-dots/.config/waybar/style.css"
 			],
 			"find":
 			{
-				"height": 40.0
+				"height": 28.0
 			},
 			"find_in_files":
 			{
@@ -272,6 +318,10 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"ofi",
+					"focus",
+					"menu",
+					"thunar",
 					"idle",
 					"lock",
 					"swayidle",
@@ -298,6 +348,12 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"folders":
+			[
+				{
+					"path": "/home/tala/Repos/student-reports"
+				}
+			],
 			"groups":
 			[
 				{
@@ -345,7 +401,7 @@
 				]
 			},
 			"pinned_build_system": "",
-			"position": "0,0,0,0,0,0,0,716,872,1440,900,0",
+			"position": "0,0,0,0,0,0,0,716,872,3360,1080,0",
 			"project": "",
 			"replace":
 			{
@@ -358,6 +414,14 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"check",
+						"src/check_tuition.py"
+					],
+					[
+						"ate",
+						"src/check_atest.py"
+					]
 				],
 				"width": 0.0
 			},
@@ -386,7 +450,7 @@
 			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": true,
+			"side_bar_visible": false,
 			"side_bar_width": 150.0,
 			"status_bar_visible": true,
 			"template_settings":

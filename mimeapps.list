@@ -1,0 +1,7 @@
+[Default Applications]
+application/x-zerosize=sublime_text.desktop
+text/css=sublime_text.desktop
+
+[Added Associations]
+application/x-zerosize=sublime_text.desktop;
+text/css=sublime_text.desktop;
