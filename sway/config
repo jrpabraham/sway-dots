@@ -29,6 +29,7 @@ set $menu $rofi_cmd -show combi -combi-modes drun#run -modes combi
 
 ### How windows look
 default_border pixel 2
+hide_edge_borders smart
 
 # Focused window (Everforest green accent)
 client.focused          #a7c080 #a7c080 #2d353b #a7c080 #a7c080
