@@ -35,7 +35,8 @@
 @define-color memory @bright-magenta;
 @define-color backlight @yellow;
 @define-color battery @red;
-@define-color clock @bright-blue;
+@define-color clock @yellow;
+@define-color bluetooth @blue;
 @define-color tray @empty;
 
 
@@ -109,6 +110,7 @@ button:hover {
 #idle_inhibitor,
 #scratchpad,
 #power-profiles-daemon,
+#custom-bluetooth,
 #mpd {
     padding: 0 10px;
     color: @fg;
@@ -139,6 +141,11 @@ button:hover {
 
 #clock {
     background-color: @clock;
+    color: @bg;
+}
+
+#custom-bluetooth {
+    background-color: @bluetooth;
     color: @bg;
 }
 
