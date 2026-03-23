@@ -1,8 +1,10 @@
 {
 	"file_history":
 	[
-		"/home/tala/.config/waybar/config.jsonc",
+		"/home/tala/.config/alacritty/alacritty.toml",
 		"/home/tala/.config/waybar/style.css",
+		"/home/tala/.config/waybar/config.jsonc",
+		"/home/tala/.config/waybar/config",
 		"/home/tala/.config/waybar/style.css.tmpl",
 		"/home/tala/.config/sway/config",
 		"/home/tala/Repos/sway-dots/sway/config",
@@ -24,11 +26,11 @@
 	"last_version": 4200,
 	"last_window_id": 3,
 	"log_indexing": false,
-	"next_update_check": 1774133995,
+	"next_update_check": 1774306795,
 	"settings":
 	{
 		"new_window_full_screen": false,
-		"new_window_height": 864.0,
+		"new_window_height": 868.0,
 		"new_window_maximized": false,
 		"new_window_position":
 		[
@@ -41,6 +43,14 @@
 			{
 				"selected_items":
 				[
+					[
+						"too",
+						"tooltip"
+					],
+					[
+						"custom-",
+						"custom-bluetooth"
+					],
 					[
 						"--",
 						"--accent-color"
@@ -98,8 +108,10 @@
 			},
 			"file_history":
 			[
-				"/home/tala/.config/waybar/config.jsonc",
+				"/home/tala/.config/alacritty/alacritty.toml",
 				"/home/tala/.config/waybar/style.css",
+				"/home/tala/.config/waybar/config.jsonc",
+				"/home/tala/.config/waybar/config",
 				"/home/tala/.config/waybar/style.css.tmpl",
 				"/home/tala/.config/sway/config",
 				"/home/tala/Repos/sway-dots/sway/config",
@@ -129,6 +141,10 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"memo",
+					"blueto",
+					"bluetoo",
+					"tray",
 					"batter",
 					"icon",
 					"batter"
@@ -177,12 +193,12 @@
 				"selected_items":
 				[
 					[
-						"con",
+						"",
 						"config.jsonc"
 					],
 					[
-						"",
-						"style.css"
+						"con",
+						"config.jsonc"
 					],
 					[
 						"check",
@@ -223,7 +239,7 @@
 			{
 			}
 		},
-		"new_window_width": 716.0
+		"new_window_width": 1440.0
 	},
 	"windows":
 	[
@@ -232,6 +248,14 @@
 			{
 				"selected_items":
 				[
+					[
+						"too",
+						"tooltip"
+					],
+					[
+						"custom-",
+						"custom-bluetooth"
+					],
 					[
 						"--",
 						"--accent-color"
@@ -297,8 +321,10 @@
 			],
 			"file_history":
 			[
-				"/home/tala/.config/waybar/config.jsonc",
+				"/home/tala/.config/alacritty/alacritty.toml",
 				"/home/tala/.config/waybar/style.css",
+				"/home/tala/.config/waybar/config.jsonc",
+				"/home/tala/.config/waybar/config",
 				"/home/tala/.config/waybar/style.css.tmpl",
 				"/home/tala/.config/sway/config",
 				"/home/tala/Repos/sway-dots/sway/config",
@@ -328,6 +354,10 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"memo",
+					"blueto",
+					"bluetoo",
+					"tray",
 					"batter",
 					"icon",
 					"batter"
@@ -400,7 +430,7 @@
 				]
 			},
 			"pinned_build_system": "",
-			"position": "0,0,0,0,0,0,0,716,864,1440,900,0",
+			"position": "0,0,0,0,0,0,0,1440,868,1440,900,0",
 			"project": "",
 			"replace":
 			{
@@ -414,12 +444,12 @@
 				"selected_items":
 				[
 					[
-						"con",
+						"",
 						"config.jsonc"
 					],
 					[
-						"",
-						"style.css"
+						"con",
+						"config.jsonc"
 					],
 					[
 						"check",

@@ -1,7 +1,10 @@
 # Colors (Everforest Dark Hard)
 
 [font]
-size = 11.0
+size = 12.0
+
+[font.normal]
+family = "Terminus (TTF)"
 
 [colors.primary]
 background = '#272e33'
