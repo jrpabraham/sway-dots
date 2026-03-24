@@ -1,10 +1,11 @@
 {
 	"file_history":
 	[
-		"/home/tala/.config/waybar/style.css",
+		"/home/tala/.config/swaync/style.css",
 		"/home/tala/.config/alacritty/alacritty.toml",
-		"/home/tala/.config/waybar/config.jsonc",
 		"/home/tala/.config/sway/config",
+		"/home/tala/.config/waybar/config.jsonc",
+		"/home/tala/.config/waybar/style.css",
 		"/home/tala/.config/waybar/scripts/network.sh",
 		"/home/tala/.config/waybar/scripts/untitled.shnetwork.sh",
 		"/home/tala/.config/waybar/config",
@@ -22,11 +23,12 @@
 	],
 	"folder_history":
 	[
+		"/home/tala/Repos/sway-dots/dot-config",
 		"/home/tala/.config/waybar",
 		"/home/tala/Repos/student-reports"
 	],
 	"last_version": 4200,
-	"last_window_id": 3,
+	"last_window_id": 4,
 	"log_indexing": false,
 	"next_update_check": 1774470963,
 	"settings":
@@ -110,10 +112,11 @@
 			},
 			"file_history":
 			[
-				"/home/tala/.config/waybar/style.css",
+				"/home/tala/.config/swaync/style.css",
 				"/home/tala/.config/alacritty/alacritty.toml",
-				"/home/tala/.config/waybar/config.jsonc",
 				"/home/tala/.config/sway/config",
+				"/home/tala/.config/waybar/config.jsonc",
+				"/home/tala/.config/waybar/style.css",
 				"/home/tala/.config/waybar/scripts/network.sh",
 				"/home/tala/.config/waybar/scripts/untitled.shnetwork.sh",
 				"/home/tala/.config/waybar/config",
@@ -131,7 +134,7 @@
 			],
 			"find":
 			{
-				"height": 30.0
+				"height": 26.0
 			},
 			"find_in_files":
 			{
@@ -145,6 +148,10 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"red",
+					"wayb",
+					"waybar",
+					"exec",
 					"tray",
 					"tra",
 					"vol",
@@ -175,7 +182,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 30.0
+				"height": 26.0
 			},
 			"input":
 			{
@@ -192,7 +199,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 56.0
+				"height": 48.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -342,10 +349,11 @@
 			],
 			"file_history":
 			[
-				"/home/tala/.config/waybar/style.css",
+				"/home/tala/.config/swaync/style.css",
 				"/home/tala/.config/alacritty/alacritty.toml",
-				"/home/tala/.config/waybar/config.jsonc",
 				"/home/tala/.config/sway/config",
+				"/home/tala/.config/waybar/config.jsonc",
+				"/home/tala/.config/waybar/style.css",
 				"/home/tala/.config/waybar/scripts/network.sh",
 				"/home/tala/.config/waybar/scripts/untitled.shnetwork.sh",
 				"/home/tala/.config/waybar/config",
@@ -363,7 +371,7 @@
 			],
 			"find":
 			{
-				"height": 30.0
+				"height": 26.0
 			},
 			"find_in_files":
 			{
@@ -377,6 +385,10 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"red",
+					"wayb",
+					"waybar",
+					"exec",
 					"tray",
 					"tra",
 					"vol",
@@ -421,7 +433,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 30.0
+				"height": 26.0
 			},
 			"input":
 			{
@@ -462,7 +474,7 @@
 			"project": "",
 			"replace":
 			{
-				"height": 56.0
+				"height": 48.0
 			},
 			"save_all_on_build": true,
 			"select_file":
