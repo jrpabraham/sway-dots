@@ -4,7 +4,7 @@
 size = 12.0
 
 [font.normal]
-family = "Terminus (TTF)"
+family = "TamzenForPowerline"
 
 [colors.primary]
 background = '#272e33'

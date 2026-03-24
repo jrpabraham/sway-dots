@@ -1,12 +1,14 @@
 {
 	"file_history":
 	[
-		"/home/tala/.config/alacritty/alacritty.toml",
 		"/home/tala/.config/waybar/style.css",
+		"/home/tala/.config/alacritty/alacritty.toml",
 		"/home/tala/.config/waybar/config.jsonc",
+		"/home/tala/.config/sway/config",
+		"/home/tala/.config/waybar/scripts/network.sh",
+		"/home/tala/.config/waybar/scripts/untitled.shnetwork.sh",
 		"/home/tala/.config/waybar/config",
 		"/home/tala/.config/waybar/style.css.tmpl",
-		"/home/tala/.config/sway/config",
 		"/home/tala/Repos/sway-dots/sway/config",
 		"/home/tala/Repos/dots-hypr/.config/waybar/config",
 		"/home/tala/Repos/student-reports/src/check_tuition.py",
@@ -26,11 +28,11 @@
 	"last_version": 4200,
 	"last_window_id": 3,
 	"log_indexing": false,
-	"next_update_check": 1774306795,
+	"next_update_check": 1774470963,
 	"settings":
 	{
 		"new_window_full_screen": false,
-		"new_window_height": 868.0,
+		"new_window_height": 864.0,
 		"new_window_maximized": false,
 		"new_window_position":
 		[
@@ -108,12 +110,14 @@
 			},
 			"file_history":
 			[
-				"/home/tala/.config/alacritty/alacritty.toml",
 				"/home/tala/.config/waybar/style.css",
+				"/home/tala/.config/alacritty/alacritty.toml",
 				"/home/tala/.config/waybar/config.jsonc",
+				"/home/tala/.config/sway/config",
+				"/home/tala/.config/waybar/scripts/network.sh",
+				"/home/tala/.config/waybar/scripts/untitled.shnetwork.sh",
 				"/home/tala/.config/waybar/config",
 				"/home/tala/.config/waybar/style.css.tmpl",
-				"/home/tala/.config/sway/config",
 				"/home/tala/Repos/sway-dots/sway/config",
 				"/home/tala/Repos/dots-hypr/.config/waybar/config",
 				"/home/tala/Repos/student-reports/src/check_tuition.py",
@@ -127,7 +131,7 @@
 			],
 			"find":
 			{
-				"height": 28.0
+				"height": 30.0
 			},
 			"find_in_files":
 			{
@@ -141,6 +145,11 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"tray",
+					"tra",
+					"vol",
+					"netwo",
+					"netw",
 					"memo",
 					"blueto",
 					"bluetoo",
@@ -166,7 +175,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 28.0
+				"height": 30.0
 			},
 			"input":
 			{
@@ -183,7 +192,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 52.0
+				"height": 56.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -193,8 +202,20 @@
 				"selected_items":
 				[
 					[
-						"",
+						"js",
 						"config.jsonc"
+					],
+					[
+						"st",
+						"style.css"
+					],
+					[
+						"",
+						"style.css"
+					],
+					[
+						"net",
+						"scripts/network.sh"
 					],
 					[
 						"con",
@@ -239,7 +260,7 @@
 			{
 			}
 		},
-		"new_window_width": 1440.0
+		"new_window_width": 716.0
 	},
 	"windows":
 	[
@@ -321,12 +342,14 @@
 			],
 			"file_history":
 			[
-				"/home/tala/.config/alacritty/alacritty.toml",
 				"/home/tala/.config/waybar/style.css",
+				"/home/tala/.config/alacritty/alacritty.toml",
 				"/home/tala/.config/waybar/config.jsonc",
+				"/home/tala/.config/sway/config",
+				"/home/tala/.config/waybar/scripts/network.sh",
+				"/home/tala/.config/waybar/scripts/untitled.shnetwork.sh",
 				"/home/tala/.config/waybar/config",
 				"/home/tala/.config/waybar/style.css.tmpl",
-				"/home/tala/.config/sway/config",
 				"/home/tala/Repos/sway-dots/sway/config",
 				"/home/tala/Repos/dots-hypr/.config/waybar/config",
 				"/home/tala/Repos/student-reports/src/check_tuition.py",
@@ -340,7 +363,7 @@
 			],
 			"find":
 			{
-				"height": 28.0
+				"height": 30.0
 			},
 			"find_in_files":
 			{
@@ -354,6 +377,11 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"tray",
+					"tra",
+					"vol",
+					"netwo",
+					"netw",
 					"memo",
 					"blueto",
 					"bluetoo",
@@ -393,7 +421,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 28.0
+				"height": 30.0
 			},
 			"input":
 			{
@@ -430,11 +458,11 @@
 				]
 			},
 			"pinned_build_system": "",
-			"position": "0,0,0,0,0,0,0,1440,868,1440,900,0",
+			"position": "0,0,0,0,0,0,0,716,864,1440,900,0",
 			"project": "",
 			"replace":
 			{
-				"height": 52.0
+				"height": 56.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -444,8 +472,20 @@
 				"selected_items":
 				[
 					[
-						"",
+						"js",
 						"config.jsonc"
+					],
+					[
+						"st",
+						"style.css"
+					],
+					[
+						"",
+						"style.css"
+					],
+					[
+						"net",
+						"scripts/network.sh"
 					],
 					[
 						"con",
