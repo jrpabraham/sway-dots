@@ -1,11 +1,11 @@
 {
 	"file_history":
 	[
-		"/home/tala/.config/swaync/style.css",
-		"/home/tala/.config/alacritty/alacritty.toml",
 		"/home/tala/.config/sway/config",
 		"/home/tala/.config/waybar/config.jsonc",
 		"/home/tala/.config/waybar/style.css",
+		"/home/tala/.config/swaync/style.css",
+		"/home/tala/.config/alacritty/alacritty.toml",
 		"/home/tala/.config/waybar/scripts/network.sh",
 		"/home/tala/.config/waybar/scripts/untitled.shnetwork.sh",
 		"/home/tala/.config/waybar/config",
@@ -34,7 +34,7 @@
 	"settings":
 	{
 		"new_window_full_screen": false,
-		"new_window_height": 864.0,
+		"new_window_height": 834.0,
 		"new_window_maximized": false,
 		"new_window_position":
 		[
@@ -80,6 +80,10 @@
 				"selected_items":
 				[
 					[
+						"tab",
+						"View: Toggle Tabs"
+					],
+					[
 						"wrap",
 						"Word Wrap: Toggle"
 					],
@@ -112,11 +116,11 @@
 			},
 			"file_history":
 			[
-				"/home/tala/.config/swaync/style.css",
-				"/home/tala/.config/alacritty/alacritty.toml",
 				"/home/tala/.config/sway/config",
 				"/home/tala/.config/waybar/config.jsonc",
 				"/home/tala/.config/waybar/style.css",
+				"/home/tala/.config/swaync/style.css",
+				"/home/tala/.config/alacritty/alacritty.toml",
 				"/home/tala/.config/waybar/scripts/network.sh",
 				"/home/tala/.config/waybar/scripts/untitled.shnetwork.sh",
 				"/home/tala/.config/waybar/config",
@@ -148,6 +152,8 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"10",
+					"{\n",
 					"red",
 					"wayb",
 					"waybar",
@@ -209,12 +215,12 @@
 				"selected_items":
 				[
 					[
-						"js",
-						"config.jsonc"
-					],
-					[
 						"st",
 						"style.css"
+					],
+					[
+						"js",
+						"config.jsonc"
 					],
 					[
 						"",
@@ -267,7 +273,7 @@
 			{
 			}
 		},
-		"new_window_width": 716.0
+		"new_window_width": 664.0
 	},
 	"windows":
 	[
@@ -313,6 +319,10 @@
 				"selected_items":
 				[
 					[
+						"tab",
+						"View: Toggle Tabs"
+					],
+					[
 						"wrap",
 						"Word Wrap: Toggle"
 					],
@@ -349,11 +359,11 @@
 			],
 			"file_history":
 			[
-				"/home/tala/.config/swaync/style.css",
-				"/home/tala/.config/alacritty/alacritty.toml",
 				"/home/tala/.config/sway/config",
 				"/home/tala/.config/waybar/config.jsonc",
 				"/home/tala/.config/waybar/style.css",
+				"/home/tala/.config/swaync/style.css",
+				"/home/tala/.config/alacritty/alacritty.toml",
 				"/home/tala/.config/waybar/scripts/network.sh",
 				"/home/tala/.config/waybar/scripts/untitled.shnetwork.sh",
 				"/home/tala/.config/waybar/config",
@@ -385,6 +395,8 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"10",
+					"{\n",
 					"red",
 					"wayb",
 					"waybar",
@@ -470,7 +482,7 @@
 				]
 			},
 			"pinned_build_system": "",
-			"position": "0,0,0,0,0,0,0,716,864,1440,900,0",
+			"position": "0,0,0,0,0,0,0,664,834,1440,900,0",
 			"project": "",
 			"replace":
 			{
@@ -484,12 +496,12 @@
 				"selected_items":
 				[
 					[
-						"js",
-						"config.jsonc"
-					],
-					[
 						"st",
 						"style.css"
+					],
+					[
+						"js",
+						"config.jsonc"
 					],
 					[
 						"",

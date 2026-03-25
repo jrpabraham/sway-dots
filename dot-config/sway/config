@@ -34,6 +34,8 @@ exec_always $nc
 ### How windows look
 default_border pixel 2
 hide_edge_borders smart
+gaps inner 10
+gaps outer 5
 
 # Focused window (Everforest green accent)
 client.focused          #a7c080 #a7c080 #2d353b #a7c080 #a7c080

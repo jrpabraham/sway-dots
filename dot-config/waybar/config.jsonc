@@ -11,6 +11,7 @@
         "sway/mode"
     ],
     "modules-center": [
+        "mpris"
     ],
     "modules-right": [
         "pulseaudio",
@@ -87,6 +88,18 @@
             "default": ["", "", ""]
         },
         "on-click": "pavucontrol"
+    },
+    "mpris": {
+        "format": "{status_icon} {title}",
+        "format-paused": "{status_icon} {title}",
+        "format-stopped": "",
+        "status-icons": {
+            "playing": "",
+            "paused": "",
+            "stopped": ""
+        },        
+        "on-click": "playerctl play-pause",
+        "max-length": 40
     },
     "custom/bluetooth": {
         "exec": "bash -c 'bluetoothctl show | grep -q \"Powered: yes\" && echo  || echo 󰂲'",
