@@ -24,6 +24,9 @@ if [ -d ~/.bashrc.d ]; then
 fi
 unset rc
 
+# Fun
+cbonsai -p --life=64
+
 # >>> conda initialize >>>
 conda() {
     unset -f conda

@@ -41,3 +41,10 @@ foreground = '#272e33'
 [colors.search.focused_match]
 background = '#e67e80'
 foreground = '#272e33'
+
+[window]
+dynamic_padding = true
+
+[window.padding]
+x = 10
+y = 10
