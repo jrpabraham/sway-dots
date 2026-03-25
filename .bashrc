@@ -25,7 +25,7 @@ fi
 unset rc
 
 # Fun
-cbonsai -p --life=64
+cbonsai -p --base=2 --life=32
 
 # >>> conda initialize >>>
 conda() {
