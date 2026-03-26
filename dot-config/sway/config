@@ -34,8 +34,15 @@ exec_always $nc
 ### How windows look
 default_border pixel 2
 hide_edge_borders smart
-gaps inner 10
-gaps outer 5
+gaps inner 6
+gaps outer 3
+
+# Config dialog windows
+
+for_window [app_id="xdg-desktop-portal"] floating enable
+for_window [app_id="org.freedesktop.impl.portal.desktop.wlr"] floating enable
+
+for_window [window_type="dialog"] floating enable
 
 # Focused window (Everforest green accent)
 client.focused          #a7c080 #a7c080 #2d353b #a7c080 #a7c080
@@ -61,18 +68,23 @@ output * bg /home/tala/Downloads/richard-tao-jlJFU9QBfFc-unsplash.jpg fill
 #
 # You can get the names of your outputs by running: swaymsg -t get_outputs
 
+###### Clamshell mode
+
+# Run on startup to handle current state
+exec_always ~/.config/sway/scripts/clamshell.sh
+# Monitor lid and outputs continuously
+exec_always ~/.config/sway/scripts/clamshell-watcher.sh
+
 ### Idle configuration
-#
+
 # Example configuration:
-#
+
 exec swayidle -w \
         timeout 300 'swaylock -f -i /home/tala/Downloads/richard-tao-jlJFU9QBfFc-unsplash.jpg --scaling fill' \
         timeout 600 'swaymsg "output * power off"' resume 'swaymsg "output * power on"' \
         before-sleep 'swaylock -f -i /home/tala/Downloads/richard-tao-jlJFU9QBfFc-unsplash.jpg --scaling fill'
-#
-# This will lock your screen after 300 seconds of inactivity, then turn off
-# your displays after another 300 seconds, and turn your screens back on when
-# resumed. It will also lock your screen before your computer goes to sleep.
+
+# This will lock your screen after 300 seconds of inactivity, then turn off your displays after another 300 seconds, and turn your screens back on when resumed. It will also lock your screen before your computer goes to sleep.
 
 ### Input configuration
 #
