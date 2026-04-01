@@ -70,10 +70,12 @@ output * bg /home/tala/Downloads/1749833303452831.jpg stretch
 
 ###### Clamshell mode
 
-# Run on startup to handle current state
-exec_always ~/.config/sway/scripts/clamshell.sh
-# Monitor lid and outputs continuously
-exec_always ~/.config/sway/scripts/clamshell-watcher.sh
+set $laptop eDP-1
+set $desktop DP-1
+bindswitch --reload --locked lid:on output $laptop disable;output $desktop enable
+bindswitch --reload --locked lid:off output $laptop enable
+
+exec_always ~/.config/sway/clamshell.sh
 
 ### Idle configuration
 
