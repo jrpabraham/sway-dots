@@ -33,7 +33,7 @@ exec_always $nc
 
 ### How windows look
 default_border pixel 2
-hide_edge_borders smart
+# hide_edge_borders smart
 gaps inner 6
 gaps outer 3
 
@@ -60,7 +60,7 @@ client.urgent           #e67e80 #e67e80 #2d353b #e67e80 #e67e80
 #
 # Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)
 # Requires: desktop-backgrounds-compat, swaybg, jxl-pixbuf-loader
-output * bg /home/tala/Downloads/richard-tao-jlJFU9QBfFc-unsplash.jpg fill
+output * bg /home/tala/Downloads/1749833303452831.jpg stretch
 #
 # Example configuration:
 #

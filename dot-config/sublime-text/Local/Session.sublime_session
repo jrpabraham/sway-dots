@@ -1,7 +1,14 @@
 {
 	"file_history":
 	[
+		"/home/tala/Repos/student-reports/scratch.txt",
+		"/home/tala/Repos/student-reports/src/check_tuition.py",
+		"/home/tala/Repos/student-reports/src/list_birthdays.py",
 		"/home/tala/.config/sway/config",
+		"/home/tala/.config/sway/scripts/clamshell-watcher.sh",
+		"/home/tala/.config/sway/scripts/clamshell.sh",
+		"/home/tala/.config/kanshi/config",
+		"/home/tala/.bashrc",
 		"/home/tala/.config/waybar/config.jsonc",
 		"/home/tala/.config/waybar/style.css",
 		"/home/tala/.config/swaync/style.css",
@@ -12,10 +19,7 @@
 		"/home/tala/.config/waybar/style.css.tmpl",
 		"/home/tala/Repos/sway-dots/sway/config",
 		"/home/tala/Repos/dots-hypr/.config/waybar/config",
-		"/home/tala/Repos/student-reports/src/check_tuition.py",
 		"/home/tala/Repos/student-reports/src/check_atest.py",
-		"/home/tala/.bashrc",
-		"/home/tala/Repos/student-reports/scratch.txt",
 		"/home/tala/Repos/student-reports/Rescheduling parents for the school year",
 		"/home/tala/.themes/Everforest-Green-Dark/gtk-3.0/gtk-dark.css",
 		"/home/tala/alacritty.toml",
@@ -23,18 +27,18 @@
 	],
 	"folder_history":
 	[
+		"/home/tala/Repos/student-reports",
 		"/home/tala/Repos/sway-dots/dot-config",
-		"/home/tala/.config/waybar",
-		"/home/tala/Repos/student-reports"
+		"/home/tala/.config/waybar"
 	],
 	"last_version": 4200,
-	"last_window_id": 4,
+	"last_window_id": 5,
 	"log_indexing": false,
-	"next_update_check": 1774470963,
+	"next_update_check": 1775075763,
 	"settings":
 	{
 		"new_window_full_screen": false,
-		"new_window_height": 834.0,
+		"new_window_height": 846.0,
 		"new_window_maximized": false,
 		"new_window_position":
 		[
@@ -80,6 +84,10 @@
 				"selected_items":
 				[
 					[
+						"view",
+						"View: Toggle Minimap"
+					],
+					[
 						"tab",
 						"View: Toggle Tabs"
 					],
@@ -116,7 +124,14 @@
 			},
 			"file_history":
 			[
+				"/home/tala/Repos/student-reports/scratch.txt",
+				"/home/tala/Repos/student-reports/src/check_tuition.py",
+				"/home/tala/Repos/student-reports/src/list_birthdays.py",
 				"/home/tala/.config/sway/config",
+				"/home/tala/.config/sway/scripts/clamshell-watcher.sh",
+				"/home/tala/.config/sway/scripts/clamshell.sh",
+				"/home/tala/.config/kanshi/config",
+				"/home/tala/.bashrc",
 				"/home/tala/.config/waybar/config.jsonc",
 				"/home/tala/.config/waybar/style.css",
 				"/home/tala/.config/swaync/style.css",
@@ -127,10 +142,7 @@
 				"/home/tala/.config/waybar/style.css.tmpl",
 				"/home/tala/Repos/sway-dots/sway/config",
 				"/home/tala/Repos/dots-hypr/.config/waybar/config",
-				"/home/tala/Repos/student-reports/src/check_tuition.py",
 				"/home/tala/Repos/student-reports/src/check_atest.py",
-				"/home/tala/.bashrc",
-				"/home/tala/Repos/student-reports/scratch.txt",
 				"/home/tala/Repos/student-reports/Rescheduling parents for the school year",
 				"/home/tala/.themes/Everforest-Green-Dark/gtk-3.0/gtk-dark.css",
 				"/home/tala/alacritty.toml",
@@ -152,24 +164,10 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"10",
-					"{\n",
-					"red",
-					"wayb",
-					"waybar",
-					"exec",
-					"tray",
-					"tra",
-					"vol",
-					"netwo",
-					"netw",
-					"memo",
-					"blueto",
-					"bluetoo",
-					"tray",
-					"batter",
-					"icon",
-					"batter"
+					"lid",
+					"slee",
+					"HDMI",
+					"lid:on"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -214,6 +212,26 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"scra",
+						"scratch.txt"
+					],
+					[
+						"birth",
+						"src/list_birthdays.py"
+					],
+					[
+						"chec",
+						"src/check_tuition.py"
+					],
+					[
+						"sc",
+						"scratch.txt"
+					],
+					[
+						".py",
+						"src/list_birthdays.py"
+					],
 					[
 						"st",
 						"style.css"
@@ -263,7 +281,7 @@
 				],
 				"width": 0.0
 			},
-			"show_minimap": true,
+			"show_minimap": false,
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": false,
@@ -273,7 +291,7 @@
 			{
 			}
 		},
-		"new_window_width": 664.0
+		"new_window_width": 704.0
 	},
 	"windows":
 	[
@@ -319,6 +337,10 @@
 				"selected_items":
 				[
 					[
+						"view",
+						"View: Toggle Minimap"
+					],
+					[
 						"tab",
 						"View: Toggle Tabs"
 					],
@@ -355,11 +377,18 @@
 			},
 			"expanded_folders":
 			[
-				"/home/tala/.config/waybar"
+				"/home/tala/Repos/student-reports"
 			],
 			"file_history":
 			[
+				"/home/tala/Repos/student-reports/scratch.txt",
+				"/home/tala/Repos/student-reports/src/check_tuition.py",
+				"/home/tala/Repos/student-reports/src/list_birthdays.py",
 				"/home/tala/.config/sway/config",
+				"/home/tala/.config/sway/scripts/clamshell-watcher.sh",
+				"/home/tala/.config/sway/scripts/clamshell.sh",
+				"/home/tala/.config/kanshi/config",
+				"/home/tala/.bashrc",
 				"/home/tala/.config/waybar/config.jsonc",
 				"/home/tala/.config/waybar/style.css",
 				"/home/tala/.config/swaync/style.css",
@@ -370,10 +399,7 @@
 				"/home/tala/.config/waybar/style.css.tmpl",
 				"/home/tala/Repos/sway-dots/sway/config",
 				"/home/tala/Repos/dots-hypr/.config/waybar/config",
-				"/home/tala/Repos/student-reports/src/check_tuition.py",
 				"/home/tala/Repos/student-reports/src/check_atest.py",
-				"/home/tala/.bashrc",
-				"/home/tala/Repos/student-reports/scratch.txt",
 				"/home/tala/Repos/student-reports/Rescheduling parents for the school year",
 				"/home/tala/.themes/Everforest-Green-Dark/gtk-3.0/gtk-dark.css",
 				"/home/tala/alacritty.toml",
@@ -395,24 +421,10 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"10",
-					"{\n",
-					"red",
-					"wayb",
-					"waybar",
-					"exec",
-					"tray",
-					"tra",
-					"vol",
-					"netwo",
-					"netw",
-					"memo",
-					"blueto",
-					"bluetoo",
-					"tray",
-					"batter",
-					"icon",
-					"batter"
+					"lid",
+					"slee",
+					"HDMI",
+					"lid:on"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -432,7 +444,7 @@
 			"folders":
 			[
 				{
-					"path": "/home/tala/.config/waybar"
+					"path": "/home/tala/Repos/student-reports"
 				}
 			],
 			"groups":
@@ -482,7 +494,7 @@
 				]
 			},
 			"pinned_build_system": "",
-			"position": "0,0,0,0,0,0,0,664,834,1440,900,0",
+			"position": "0,0,0,0,0,0,0,704,846,1440,900,0",
 			"project": "",
 			"replace":
 			{
@@ -495,6 +507,26 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"scra",
+						"scratch.txt"
+					],
+					[
+						"birth",
+						"src/list_birthdays.py"
+					],
+					[
+						"chec",
+						"src/check_tuition.py"
+					],
+					[
+						"sc",
+						"scratch.txt"
+					],
+					[
+						".py",
+						"src/list_birthdays.py"
+					],
 					[
 						"st",
 						"style.css"
@@ -548,7 +580,7 @@
 			"settings":
 			{
 			},
-			"show_minimap": true,
+			"show_minimap": false,
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": false,
@@ -557,7 +589,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 3,
+			"window_id": 5,
 			"workspace_name": ""
 		}
 	],
