@@ -1,18 +1,21 @@
 {
 	"file_history":
 	[
+		"/home/tala/.config/alacritty/alacritty.toml",
+		"/home/tala/.config/ghostty/config.ghostty",
+		"/home/tala/Downloads/everforest-dark",
+		"/home/tala/.config/alacritty/everforest_dark_hard.toml",
+		"/home/tala/.config/sway/config",
+		"/home/tala/.config/sway/scripts/clamshell.sh",
 		"/home/tala/Repos/student-reports/scratch.txt",
 		"/home/tala/Repos/student-reports/src/check_tuition.py",
 		"/home/tala/Repos/student-reports/src/list_birthdays.py",
-		"/home/tala/.config/sway/config",
 		"/home/tala/.config/sway/scripts/clamshell-watcher.sh",
-		"/home/tala/.config/sway/scripts/clamshell.sh",
 		"/home/tala/.config/kanshi/config",
 		"/home/tala/.bashrc",
 		"/home/tala/.config/waybar/config.jsonc",
 		"/home/tala/.config/waybar/style.css",
 		"/home/tala/.config/swaync/style.css",
-		"/home/tala/.config/alacritty/alacritty.toml",
 		"/home/tala/.config/waybar/scripts/network.sh",
 		"/home/tala/.config/waybar/scripts/untitled.shnetwork.sh",
 		"/home/tala/.config/waybar/config",
@@ -27,14 +30,15 @@
 	],
 	"folder_history":
 	[
+		"/home/tala/.config/alacritty",
 		"/home/tala/Repos/student-reports",
 		"/home/tala/Repos/sway-dots/dot-config",
 		"/home/tala/.config/waybar"
 	],
 	"last_version": 4200,
-	"last_window_id": 5,
+	"last_window_id": 6,
 	"log_indexing": false,
-	"next_update_check": 1775075763,
+	"next_update_check": 1775162163,
 	"settings":
 	{
 		"new_window_full_screen": false,
@@ -124,18 +128,20 @@
 			},
 			"file_history":
 			[
+				"/home/tala/.config/alacritty/alacritty.toml",
+				"/home/tala/.config/ghostty/config.ghostty",
+				"/home/tala/Downloads/everforest-dark",
+				"/home/tala/.config/sway/config",
+				"/home/tala/.config/sway/scripts/clamshell.sh",
 				"/home/tala/Repos/student-reports/scratch.txt",
 				"/home/tala/Repos/student-reports/src/check_tuition.py",
 				"/home/tala/Repos/student-reports/src/list_birthdays.py",
-				"/home/tala/.config/sway/config",
 				"/home/tala/.config/sway/scripts/clamshell-watcher.sh",
-				"/home/tala/.config/sway/scripts/clamshell.sh",
 				"/home/tala/.config/kanshi/config",
 				"/home/tala/.bashrc",
 				"/home/tala/.config/waybar/config.jsonc",
 				"/home/tala/.config/waybar/style.css",
 				"/home/tala/.config/swaync/style.css",
-				"/home/tala/.config/alacritty/alacritty.toml",
 				"/home/tala/.config/waybar/scripts/network.sh",
 				"/home/tala/.config/waybar/scripts/untitled.shnetwork.sh",
 				"/home/tala/.config/waybar/config",
@@ -164,6 +170,8 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"10",
+					"TamzenForPowerline",
 					"lid",
 					"slee",
 					"HDMI",
@@ -381,18 +389,20 @@
 			],
 			"file_history":
 			[
+				"/home/tala/.config/alacritty/alacritty.toml",
+				"/home/tala/.config/ghostty/config.ghostty",
+				"/home/tala/Downloads/everforest-dark",
+				"/home/tala/.config/sway/config",
+				"/home/tala/.config/sway/scripts/clamshell.sh",
 				"/home/tala/Repos/student-reports/scratch.txt",
 				"/home/tala/Repos/student-reports/src/check_tuition.py",
 				"/home/tala/Repos/student-reports/src/list_birthdays.py",
-				"/home/tala/.config/sway/config",
 				"/home/tala/.config/sway/scripts/clamshell-watcher.sh",
-				"/home/tala/.config/sway/scripts/clamshell.sh",
 				"/home/tala/.config/kanshi/config",
 				"/home/tala/.bashrc",
 				"/home/tala/.config/waybar/config.jsonc",
 				"/home/tala/.config/waybar/style.css",
 				"/home/tala/.config/swaync/style.css",
-				"/home/tala/.config/alacritty/alacritty.toml",
 				"/home/tala/.config/waybar/scripts/network.sh",
 				"/home/tala/.config/waybar/scripts/untitled.shnetwork.sh",
 				"/home/tala/.config/waybar/config",
@@ -421,6 +431,8 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"10",
+					"TamzenForPowerline",
 					"lid",
 					"slee",
 					"HDMI",

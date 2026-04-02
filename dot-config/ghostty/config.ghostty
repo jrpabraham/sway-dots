@@ -1,0 +1,29 @@
+# Colors
+
+theme = everforest-dark-hard
+
+background = #1E2326
+
+# Text
+
+font-family = "TamzenForPowerline"
+font-size = 16
+
+## Text Decorations
+
+selection-background = #DBBC7F
+
+# Cursor
+
+shell-integration-features = no-cursor
+cursor-color = #DBBC7F
+cursor-style = underline
+cursor-click-to-move = true
+mouse-hide-while-typing = true
+
+# Window
+
+window-padding-x = 10
+window-padding-y = 10
+window-padding-balance = true
+window-show-tab-bar = auto

@@ -7,3 +7,4 @@ application/octet-stream=sublime_text.desktop
 application/x-zerosize=sublime_text.desktop;
 text/css=sublime_text.desktop;
 application/octet-stream=sublime_text.desktop;
+text/plain=sublime_text.desktop;
