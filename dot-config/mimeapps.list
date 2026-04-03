@@ -1,0 +1,27 @@
+[Default Applications]
+application/x-zerosize=sublime_text.desktop
+text/css=sublime_text.desktop
+application/octet-stream=sublime_text.desktop
+
+application/epub+zip=com.github.johnfactotum.Foliate.desktop
+application/x-mobipocket-ebook=com.github.johnfactotum.Foliate.desktop
+application/x-fictionbook+xml=com.github.johnfactotum.Foliate.desktop
+application/x-fictionbook2=com.github.johnfactotum.Foliate.desktop
+application/vnd.amazon.mobi8-ebook=com.github.johnfactotum.Foliate.desktop
+
+text/csv=libreoffice-calc.desktop
+text/x-csv=libreoffice-calc.desktop
+application/csv=libreoffice-calc.desktop
+application/vnd.ms-excel=libreoffice-calc.desktop
+
+application/pdf=org.pwmt.zathura.desktop
+
+[Added Associations]
+application/x-zerosize=sublime_text.desktop;
+text/css=sublime_text.desktop;
+application/octet-stream=sublime_text.desktop;
+text/plain=sublime_text.desktop
+text/csv=sublime_text.desktop
+
+application/pdf=org.mozilla.firefox.desktop
+application/pdf=libreoffice-draw.desktop
