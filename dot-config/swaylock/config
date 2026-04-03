@@ -1,0 +1,51 @@
+# Background
+image=~/Pictures/1749833303452831.jpg
+scaling=stretch
+
+# Layout
+indicator-radius=90
+indicator-thickness=8
+indicator-idle-visible=false
+indicator-caps-lock
+
+# Separator
+separator-color=00000000
+
+# Ring
+ring-color=475258
+ring-ver-color=a7c080
+ring-wrong-color=e67e80
+ring-caps-lock-color=dbbc7f
+
+# Inside
+inside-color=1d202100
+inside-ver-color=a7c08018
+inside-wrong-color=e67e8018
+inside-caps-lock-color=dbbc7f18
+inside-clear-color=1d202100
+
+# Line (gap between inside and ring)
+line-color=00000000
+line-ver-color=00000000
+line-wrong-color=00000000
+line-caps-lock-color=00000000
+line-clear-color=00000000
+
+# Key highlight
+key-hl-color=a7c080
+bs-hl-color=e67e80
+
+# Text
+text-color=d3c6aa
+text-ver-color=a7c080
+text-wrong-color=e67e80
+text-caps-lock-color=dbbc7f
+text-clear-color=d3c6aa
+
+# Font
+font=TamzenForPowerline
+font-size=14
+
+# Misc
+show-failed-attempts
+ignore-empty-password

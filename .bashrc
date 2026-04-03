@@ -24,6 +24,15 @@ if [ -d ~/.bashrc.d ]; then
 fi
 unset rc
 
+# Shortcut for yazi fm
+function y() {
+	local tmp="$(mktemp -t "yazi-cwd.XXXXXX")" cwd
+	command yazi "$@" --cwd-file="$tmp"
+	IFS= read -r -d '' cwd < "$tmp"
+	[ "$cwd" != "$PWD" ] && [ -d "$cwd" ] && builtin cd -- "$cwd"
+	rm -f -- "$tmp"
+}
+
 # Fun
 cbonsai -p --base=2 --life=32
 

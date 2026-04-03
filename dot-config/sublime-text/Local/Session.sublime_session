@@ -1,11 +1,14 @@
 {
 	"file_history":
 	[
-		"/home/tala/.config/alacritty/alacritty.toml",
 		"/home/tala/.config/ghostty/config.ghostty",
+		"/home/tala/.config/sway/config",
+		"/home/tala/.config/swaylock/config",
+		"/home/tala/Downloads/swaylock-everforest",
+		"/home/tala/.config/yazi/theme.toml",
+		"/home/tala/.config/alacritty/alacritty.toml",
 		"/home/tala/Downloads/everforest-dark",
 		"/home/tala/.config/alacritty/everforest_dark_hard.toml",
-		"/home/tala/.config/sway/config",
 		"/home/tala/.config/sway/scripts/clamshell.sh",
 		"/home/tala/Repos/student-reports/scratch.txt",
 		"/home/tala/Repos/student-reports/src/check_tuition.py",
@@ -30,19 +33,20 @@
 	],
 	"folder_history":
 	[
+		"/home/tala/.config/yazi",
 		"/home/tala/.config/alacritty",
 		"/home/tala/Repos/student-reports",
 		"/home/tala/Repos/sway-dots/dot-config",
 		"/home/tala/.config/waybar"
 	],
 	"last_version": 4200,
-	"last_window_id": 6,
+	"last_window_id": 9,
 	"log_indexing": false,
-	"next_update_check": 1775162163,
+	"next_update_check": 1775248563,
 	"settings":
 	{
 		"new_window_full_screen": false,
-		"new_window_height": 846.0,
+		"new_window_height": 418.0,
 		"new_window_maximized": false,
 		"new_window_position":
 		[
@@ -128,10 +132,13 @@
 			},
 			"file_history":
 			[
-				"/home/tala/.config/alacritty/alacritty.toml",
 				"/home/tala/.config/ghostty/config.ghostty",
-				"/home/tala/Downloads/everforest-dark",
 				"/home/tala/.config/sway/config",
+				"/home/tala/.config/swaylock/config",
+				"/home/tala/Downloads/swaylock-everforest",
+				"/home/tala/.config/yazi/theme.toml",
+				"/home/tala/.config/alacritty/alacritty.toml",
+				"/home/tala/Downloads/everforest-dark",
 				"/home/tala/.config/sway/scripts/clamshell.sh",
 				"/home/tala/Repos/student-reports/scratch.txt",
 				"/home/tala/Repos/student-reports/src/check_tuition.py",
@@ -170,12 +177,8 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"10",
-					"TamzenForPowerline",
-					"lid",
-					"slee",
-					"HDMI",
-					"lid:on"
+					"=",
+					"scale"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -220,6 +223,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"the",
+						"theme.toml"
+					],
 					[
 						"scra",
 						"scratch.txt"
@@ -385,14 +392,17 @@
 			},
 			"expanded_folders":
 			[
-				"/home/tala/Repos/student-reports"
+				"/home/tala/.config/yazi"
 			],
 			"file_history":
 			[
-				"/home/tala/.config/alacritty/alacritty.toml",
 				"/home/tala/.config/ghostty/config.ghostty",
-				"/home/tala/Downloads/everforest-dark",
 				"/home/tala/.config/sway/config",
+				"/home/tala/.config/swaylock/config",
+				"/home/tala/Downloads/swaylock-everforest",
+				"/home/tala/.config/yazi/theme.toml",
+				"/home/tala/.config/alacritty/alacritty.toml",
+				"/home/tala/Downloads/everforest-dark",
 				"/home/tala/.config/sway/scripts/clamshell.sh",
 				"/home/tala/Repos/student-reports/scratch.txt",
 				"/home/tala/Repos/student-reports/src/check_tuition.py",
@@ -431,12 +441,8 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"10",
-					"TamzenForPowerline",
-					"lid",
-					"slee",
-					"HDMI",
-					"lid:on"
+					"=",
+					"scale"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -456,7 +462,7 @@
 			"folders":
 			[
 				{
-					"path": "/home/tala/Repos/student-reports"
+					"path": "/home/tala/.config/yazi"
 				}
 			],
 			"groups":
@@ -506,7 +512,7 @@
 				]
 			},
 			"pinned_build_system": "",
-			"position": "0,0,0,0,0,0,0,704,846,1440,900,0",
+			"position": "0,0,0,0,0,0,0,704,418,1440,900,0",
 			"project": "",
 			"replace":
 			{
@@ -519,6 +525,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"the",
+						"theme.toml"
+					],
 					[
 						"scra",
 						"scratch.txt"
@@ -601,7 +611,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 5,
+			"window_id": 9,
 			"workspace_name": ""
 		}
 	],

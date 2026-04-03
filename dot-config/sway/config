@@ -30,6 +30,7 @@ set $nc swaync -c
 
 ### Default apps
 exec_always $nc
+exec wlsunset -l 37.7 -L -121.8 -t 5500K -T 6500K
 
 ### How windows look
 default_border pixel 2
@@ -60,7 +61,7 @@ client.urgent           #e67e80 #e67e80 #2d353b #e67e80 #e67e80
 #
 # Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)
 # Requires: desktop-backgrounds-compat, swaybg, jxl-pixbuf-loader
-output * bg /home/tala/Downloads/1749833303452831.jpg stretch
+output * bg /home/tala/Pictures/1749833303452831.jpg stretch
 #
 # Example configuration:
 #
