@@ -1,7 +1,7 @@
 // -*- mode: jsonc -*-
 {
      "layer": "top", // Waybar at top layer
-     "height": 30, // Waybar height (to be removed for auto height)
+     "height": 32, // Waybar height (to be removed for auto height)
     "spacing": 4, // Gaps between modules (4px)
 
 
@@ -105,13 +105,6 @@
         "exec": "bash -c 'bluetoothctl show | grep -q \"Powered: yes\" && echo  || echo 󰂲'",
         "interval": 5,
         "on-click": "blueman-manager"
-    },
-    "custom/network": {
-        "format": "{}",
-        "exec": "~/.config/waybar/scripts/network.sh",
-        "interval": 5,
-        "return-type": "json",
-        "on-click": "gnome-control-center network" 
     }
     }
 }
