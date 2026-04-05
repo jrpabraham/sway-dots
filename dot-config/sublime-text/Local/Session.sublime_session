@@ -1,8 +1,13 @@
 {
 	"file_history":
 	[
-		"/home/tala/.config/ghostty/config.ghostty",
 		"/home/tala/.config/sway/config",
+		"/home/tala/.config/waybar/config.jsonc",
+		"/home/tala/.config/waybar/scripts/network.sh",
+		"/home/tala/Repos/student-reports/src/check_atest.py",
+		"/home/tala/Repos/student-reports/src/list_birthdays.py",
+		"/home/tala/.config/mimeapps.list",
+		"/home/tala/.config/ghostty/config.ghostty",
 		"/home/tala/.config/swaylock/config",
 		"/home/tala/Downloads/swaylock-everforest",
 		"/home/tala/.config/yazi/theme.toml",
@@ -12,20 +17,16 @@
 		"/home/tala/.config/sway/scripts/clamshell.sh",
 		"/home/tala/Repos/student-reports/scratch.txt",
 		"/home/tala/Repos/student-reports/src/check_tuition.py",
-		"/home/tala/Repos/student-reports/src/list_birthdays.py",
 		"/home/tala/.config/sway/scripts/clamshell-watcher.sh",
 		"/home/tala/.config/kanshi/config",
 		"/home/tala/.bashrc",
-		"/home/tala/.config/waybar/config.jsonc",
 		"/home/tala/.config/waybar/style.css",
 		"/home/tala/.config/swaync/style.css",
-		"/home/tala/.config/waybar/scripts/network.sh",
 		"/home/tala/.config/waybar/scripts/untitled.shnetwork.sh",
 		"/home/tala/.config/waybar/config",
 		"/home/tala/.config/waybar/style.css.tmpl",
 		"/home/tala/Repos/sway-dots/sway/config",
 		"/home/tala/Repos/dots-hypr/.config/waybar/config",
-		"/home/tala/Repos/student-reports/src/check_atest.py",
 		"/home/tala/Repos/student-reports/Rescheduling parents for the school year",
 		"/home/tala/.themes/Everforest-Green-Dark/gtk-3.0/gtk-dark.css",
 		"/home/tala/alacritty.toml",
@@ -33,16 +34,16 @@
 	],
 	"folder_history":
 	[
+		"/home/tala/Repos/student-reports",
 		"/home/tala/.config/yazi",
 		"/home/tala/.config/alacritty",
-		"/home/tala/Repos/student-reports",
 		"/home/tala/Repos/sway-dots/dot-config",
 		"/home/tala/.config/waybar"
 	],
 	"last_version": 4200,
-	"last_window_id": 9,
+	"last_window_id": 10,
 	"log_indexing": false,
-	"next_update_check": 1775248563,
+	"next_update_check": 1775421363,
 	"settings":
 	{
 		"new_window_full_screen": false,
@@ -92,16 +93,16 @@
 				"selected_items":
 				[
 					[
+						"wrap",
+						"Word Wrap: Toggle"
+					],
+					[
 						"view",
 						"View: Toggle Minimap"
 					],
 					[
 						"tab",
 						"View: Toggle Tabs"
-					],
-					[
-						"wrap",
-						"Word Wrap: Toggle"
 					],
 					[
 						"pack",
@@ -132,8 +133,13 @@
 			},
 			"file_history":
 			[
-				"/home/tala/.config/ghostty/config.ghostty",
 				"/home/tala/.config/sway/config",
+				"/home/tala/.config/waybar/config.jsonc",
+				"/home/tala/.config/waybar/scripts/network.sh",
+				"/home/tala/Repos/student-reports/src/check_atest.py",
+				"/home/tala/Repos/student-reports/src/list_birthdays.py",
+				"/home/tala/.config/mimeapps.list",
+				"/home/tala/.config/ghostty/config.ghostty",
 				"/home/tala/.config/swaylock/config",
 				"/home/tala/Downloads/swaylock-everforest",
 				"/home/tala/.config/yazi/theme.toml",
@@ -142,20 +148,16 @@
 				"/home/tala/.config/sway/scripts/clamshell.sh",
 				"/home/tala/Repos/student-reports/scratch.txt",
 				"/home/tala/Repos/student-reports/src/check_tuition.py",
-				"/home/tala/Repos/student-reports/src/list_birthdays.py",
 				"/home/tala/.config/sway/scripts/clamshell-watcher.sh",
 				"/home/tala/.config/kanshi/config",
 				"/home/tala/.bashrc",
-				"/home/tala/.config/waybar/config.jsonc",
 				"/home/tala/.config/waybar/style.css",
 				"/home/tala/.config/swaync/style.css",
-				"/home/tala/.config/waybar/scripts/network.sh",
 				"/home/tala/.config/waybar/scripts/untitled.shnetwork.sh",
 				"/home/tala/.config/waybar/config",
 				"/home/tala/.config/waybar/style.css.tmpl",
 				"/home/tala/Repos/sway-dots/sway/config",
 				"/home/tala/Repos/dots-hypr/.config/waybar/config",
-				"/home/tala/Repos/student-reports/src/check_atest.py",
 				"/home/tala/Repos/student-reports/Rescheduling parents for the school year",
 				"/home/tala/.themes/Everforest-Green-Dark/gtk-3.0/gtk-dark.css",
 				"/home/tala/alacritty.toml",
@@ -163,7 +165,7 @@
 			],
 			"find":
 			{
-				"height": 26.0
+				"height": 38.0
 			},
 			"find_in_files":
 			{
@@ -177,8 +179,6 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"=",
-					"scale"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -224,16 +224,20 @@
 				"selected_items":
 				[
 					[
+						"birth",
+						"src/list_birthdays.py"
+					],
+					[
+						"atest",
+						"src/check_atest.py"
+					],
+					[
 						"the",
 						"theme.toml"
 					],
 					[
 						"scra",
 						"scratch.txt"
-					],
-					[
-						"birth",
-						"src/list_birthdays.py"
 					],
 					[
 						"chec",
@@ -352,16 +356,16 @@
 				"selected_items":
 				[
 					[
+						"wrap",
+						"Word Wrap: Toggle"
+					],
+					[
 						"view",
 						"View: Toggle Minimap"
 					],
 					[
 						"tab",
 						"View: Toggle Tabs"
-					],
-					[
-						"wrap",
-						"Word Wrap: Toggle"
 					],
 					[
 						"pack",
@@ -392,12 +396,17 @@
 			},
 			"expanded_folders":
 			[
-				"/home/tala/.config/yazi"
+				"/home/tala/Repos/student-reports"
 			],
 			"file_history":
 			[
-				"/home/tala/.config/ghostty/config.ghostty",
 				"/home/tala/.config/sway/config",
+				"/home/tala/.config/waybar/config.jsonc",
+				"/home/tala/.config/waybar/scripts/network.sh",
+				"/home/tala/Repos/student-reports/src/check_atest.py",
+				"/home/tala/Repos/student-reports/src/list_birthdays.py",
+				"/home/tala/.config/mimeapps.list",
+				"/home/tala/.config/ghostty/config.ghostty",
 				"/home/tala/.config/swaylock/config",
 				"/home/tala/Downloads/swaylock-everforest",
 				"/home/tala/.config/yazi/theme.toml",
@@ -406,20 +415,16 @@
 				"/home/tala/.config/sway/scripts/clamshell.sh",
 				"/home/tala/Repos/student-reports/scratch.txt",
 				"/home/tala/Repos/student-reports/src/check_tuition.py",
-				"/home/tala/Repos/student-reports/src/list_birthdays.py",
 				"/home/tala/.config/sway/scripts/clamshell-watcher.sh",
 				"/home/tala/.config/kanshi/config",
 				"/home/tala/.bashrc",
-				"/home/tala/.config/waybar/config.jsonc",
 				"/home/tala/.config/waybar/style.css",
 				"/home/tala/.config/swaync/style.css",
-				"/home/tala/.config/waybar/scripts/network.sh",
 				"/home/tala/.config/waybar/scripts/untitled.shnetwork.sh",
 				"/home/tala/.config/waybar/config",
 				"/home/tala/.config/waybar/style.css.tmpl",
 				"/home/tala/Repos/sway-dots/sway/config",
 				"/home/tala/Repos/dots-hypr/.config/waybar/config",
-				"/home/tala/Repos/student-reports/src/check_atest.py",
 				"/home/tala/Repos/student-reports/Rescheduling parents for the school year",
 				"/home/tala/.themes/Everforest-Green-Dark/gtk-3.0/gtk-dark.css",
 				"/home/tala/alacritty.toml",
@@ -427,7 +432,7 @@
 			],
 			"find":
 			{
-				"height": 26.0
+				"height": 38.0
 			},
 			"find_in_files":
 			{
@@ -441,8 +446,6 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"=",
-					"scale"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -462,7 +465,7 @@
 			"folders":
 			[
 				{
-					"path": "/home/tala/.config/yazi"
+					"path": "/home/tala/Repos/student-reports"
 				}
 			],
 			"groups":
@@ -526,16 +529,20 @@
 				"selected_items":
 				[
 					[
+						"birth",
+						"src/list_birthdays.py"
+					],
+					[
+						"atest",
+						"src/check_atest.py"
+					],
+					[
 						"the",
 						"theme.toml"
 					],
 					[
 						"scra",
 						"scratch.txt"
-					],
-					[
-						"birth",
-						"src/list_birthdays.py"
 					],
 					[
 						"chec",
@@ -611,7 +618,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 9,
+			"window_id": 10,
 			"workspace_name": ""
 		}
 	],

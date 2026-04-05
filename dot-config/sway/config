@@ -28,12 +28,12 @@ set $rofi_cmd rofi \
 set $menu $rofi_cmd -show combi -combi-modes drun#run -modes combi
 set $nc swaync -c
 
-### Default apps
+### Startup processes
 exec_always $nc
 exec wlsunset -l 37.7 -L -121.8 -t 5500K -T 6500K
 
 ### How windows look
-default_border pixel 2
+default_border pixel 4
 # hide_edge_borders smart
 gaps inner 6
 gaps outer 3
